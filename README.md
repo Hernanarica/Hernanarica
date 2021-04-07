@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Hernanarica/Hernanarica/blob/main/me.jpg" />
+  <img src="" />
 </p>
 
 ```js
