@@ -5,14 +5,14 @@
 ```js
 import JavaScriptDeveloper from 'Hernanarica';
 
-class Bio extends JavaScriptDeveloper {
+class Me {
   name     = 'Hernán Arica';
   title    = 'Desarrollador JavaScript';
   company  = 'Kickads';
   location = 'Ciudad de Buenos Aires, Argentina';
 }
 
-class Skills extends JavaScriptDeveloper {
+class Skills {
   languages  = ['css', 'html', 'javascript', 'php', 'sql'];
   databases  = ['MySQL'];
   frameworks = ['Vue', 'TailwindCss', 'Bootstrap'];
