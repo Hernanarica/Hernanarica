@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="" />
+  <img src="https://github.com/Hernanarica/Hernanarica/blob/main/me.jpg" />
 </p>
 
 ```js
-import SoftwareDeveloper from 'thompsonemerson';
+import JavaScriptDeveloper from 'Hernanarica';
 
 class Bio extends JavaScriptDeveloper {
   name     = 'Hernán Arica';
