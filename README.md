@@ -5,18 +5,18 @@
 ```js
 import SoftwareDeveloper from 'thompsonemerson';
 
-class Bio extends SoftwareDeveloper {
-  name     = 'Emerson Thompson';
-  title    = 'Software Engineer';
-  company  = 'Pipoca Digital | Remote';
-  location = 'Fortaleza, CE';
+class Bio extends JavaScriptDeveloper {
+  name     = 'Hernán Arica';
+  title    = 'Desarrollador JavaScript';
+  company  = 'Kickads';
+  location = 'Ciudad de Buenos Aires, Argentina';
 }
 
-class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+class Skills extends JavaScriptDeveloper {
+  languages  = ['css', 'html', 'javascript', 'php', 'sql'];
+  databases  = ['MySQL'];
+  frameworks = ['Vue', 'TailwindCss', 'Bootstrap'];
 }
 ```
 
-⭐️ From [thompsonemerson](https://github.com/thompsonemerson)
+⭐️ From [thompsonemerson](https://github.com/Hernanarica)
