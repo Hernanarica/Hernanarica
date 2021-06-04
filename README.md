@@ -7,7 +7,7 @@ import JavaScriptDeveloper from 'Hernanarica';
 
 class Me {
   name     = 'Hernán Arica';
-  title    = 'Desarrollador JavaScript';
+  title    = 'Desarrollador Full Stack';
   company  = 'Kickads';
   location = 'Ciudad de Buenos Aires, Argentina';
 }
