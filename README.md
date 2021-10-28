@@ -16,7 +16,7 @@ class Skills {
   languages  = ['css', 'html', 'javascript', 'php', 'sql'];
   databases  = ['MySQL'];
   frameworks = ['Vue', 'laravel', 'TailwindCss', 'Bootstrap'];
-  methodologies = ['BEM', 'Mobile fisrt', 'Utility first'];
+  methodologies = ['BEM', 'Mobile first', 'Utility first'];
   tools = ['npm', 'webpack', 'composer'];
 }
 ```
