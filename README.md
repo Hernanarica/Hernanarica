@@ -18,6 +18,7 @@ class Skills {
   frameworks = ['Vue', 'laravel', 'TailwindCss', 'Bootstrap'];
   methodologies = ['BEM', 'Mobile first', 'Utility first'];
   tools = ['npm', 'webpack', 'composer'];
+  design: ['Figma', 'Photoshop']
 }
 ```
 
