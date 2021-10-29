@@ -3,7 +3,7 @@
 </p>
 
 ```js
-import JavaScriptDeveloper from 'Hernanarica';
+import fullStackDeveloper from 'Hernanarica';
 
 class Me {
   name     = 'Hernán Arica';
