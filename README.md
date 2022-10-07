@@ -10,10 +10,10 @@ class Me {
 
 class Skills {
   languages     = ['css', 'html', 'javascript', 'php', 'sql'];
-  databases     = ['MySQL'];
-  frameworks    = ['React','Vue' 'Laravel', 'TailwindCss', 'Bootstrap'];
+  databases     = ['MySQL', 'Firestore'];
+  frameworks    = ['React', 'Laravel', 'TailwindCss'];
   methodologies = ['BEM', 'Mobile first', 'Utility first'];
-  tools         = ['npm', 'webpack', 'composer'];
+  tools         = ['npm', 'composer'];
   design        = ['Figma', 'Photoshop']
 }
 ```
