@@ -1,4 +1,4 @@
-👋 ¡Hola! Soy **Hernán**, desarrollador Full Stack con 5 años de experiencia, desde Buenos Aires, Argentina 🇦🇷.
+👋 ¡Hola! Soy **Hernán**, desarrollador Full Stack con 5 años de experiencia, desde Buenos Aires, Argentina.
 
 💡 Como Full Stack, construyo soluciones de punta a punta, desde la interfaz hasta la base de datos. Elijo cada tecnología con criterio, buscando el equilibrio justo entre lo que el proyecto realmente necesita y una inversión responsable de los recursos. Desarrollo plataformas in-house, e-commerce, blogs, chatbots e integraciones de APIs. El trabajo con datos es otra parte importante de lo que hago: creación de pipelines, transformación de datos y elaboración de reportes. Y disfruto automatizar procesos con IA y tecnología, optimizando tareas repetitivas para lograr operaciones más eficientes.
 
